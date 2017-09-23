@@ -1,0 +1,5 @@
+suzy,jackson|99|Texas|44028|555-555-5555
+tim,brown|4|Ohio|44028|555-555-5555
+bob,smith|15|Washington|44028|555-555-5555
+matt,white|87|Florida|44028|555-555-5555
+sean,smith|43|Nevada|44028|555-555-5555
