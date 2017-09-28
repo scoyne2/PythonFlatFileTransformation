@@ -1,6 +1,6 @@
-Name|Age|State|ZipCode|Phone|Country
-suzy,jackson|99|Texas|44028|555-555-5555|USA
-tim,brown|4|Ohio|44028|555-555-5555|USA
-bob,smith|15|Washington|44028|555-555-5555|USA
-matt,white|87|Florida|44028|555-555-5555|USA
-sean,smith|43|Nevada|44028|555-555-5555|USA
+FirstName|LastName|Age|State|ZipCode|Phone|Country
+Suzy|Jackson|99|Texas|44028|555-555-5555|USA
+Tim|Brown|4|Ohio|44028|555-555-5555|USA
+Bob|Smith|15|Washington|44028|555-555-5555|USA
+Matt|White|87|Florida|44028|555-555-5555|USA
+Sean|Smith|43|Nevada|44028|555-555-5555|USA
